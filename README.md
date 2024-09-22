@@ -1,12 +1,12 @@
 # Low-Level-Application-Design-with-JDBC
 
-This project focuses on designing a low-level application with direct JDBC (Java Database Connectivity) interaction, showcasing how to manage a relational database using Java. The project is built with the goal of demonstrating core JDBC principles, such as establishing database connections, executing SQL queries, and handling data efficiently.
+This project focuses on designing a low-level application with direct **JDBC** (Java Database Connectivity) interaction, showcasing how to manage a relational database using **Java**. The project is built with the goal of demonstrating core JDBC principles, such as establishing database connections, executing SQL queries, and handling data efficiently.
 
 ## Key Features:
-- Direct connection between Java and MySQL using JDBC.
-- Implementation of CRUD (Create, Read, Update, Delete) operations.
-- Transaction management with commit and rollback functionality.
-- Error handling for SQL exceptions.
+- 🔗 **Direct Connection**: Connect Java to MySQL using JDBC.
+- 🔄 **CRUD Operations**: Implementation of Create, Read, Update, and Delete operations.
+- ⚙️ **Transaction Management**: Includes commit and rollback functionality.
+- ❗ **Error Handling**: Robust handling for SQL exceptions.
 
 ## Tools and Technologies Used:
 - **Java**: Core programming language used to develop the application.
